@@ -48,3 +48,6 @@ dev = [
 
 [project.scripts]
 statforge = "statforge.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["statforge*"]
