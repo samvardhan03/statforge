@@ -74,4 +74,4 @@ If you use StatForge in your research, please cite our JOSS paper (DOI pending).
 
 ---
 
-
+Made by **Samvardhan Singh**. Licensed under the Apache License 2.0.
